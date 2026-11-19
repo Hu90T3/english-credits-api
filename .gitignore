@@ -1,0 +1,30 @@
+# Compiled Java & Maven build artifacts
+target/
+*.jar
+*.war
+*.ear
+*.class
+hs_err_pid*
+
+# Maven wrapper local cache
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log
